@@ -1,2 +1,5 @@
 # instore-media-factory.github.io
-A repo dedicated to the website issues and discussion for this entity
+
+Welcome.
+Instore Media Factory
+We produce motion graphics for all sorts of markets.
